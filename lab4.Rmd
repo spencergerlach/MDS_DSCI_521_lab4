@@ -289,7 +289,9 @@ rubric={mechanics:6}
    Paste a link to these files as your answer below.
 ```
 
-YOUR ANSWER GOES HERE
+HTML: https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_sgerla01/blob/master/DSCI_521_lab4_newRmd_q8.html
+
+Rmd: https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_sgerla01/blob/master/DSCI_521_lab4_newRmd_q8.Rmd 
 
 ```{block, type="alert alert-info"}
 #### Question 9 (Optional)
@@ -303,7 +305,9 @@ rubric={mechanics:1,reasoning:1}
    What do you see? How is it rendered?
 ```
 
-YOUR ANSWER GOES HERE
+https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_sgerla01/blob/master/DSCI_521_lab4_newRmd_q8.md
+
+The file looks rendered well for GitHub, but the plot of the data is not shown. It also shows the information in the YAML header differently.
 
 ```{block, type="alert alert-info"}
 #### Question 10
