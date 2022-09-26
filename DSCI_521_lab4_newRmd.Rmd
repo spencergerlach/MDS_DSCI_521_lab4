@@ -1,5 +1,5 @@
 ---
-title: "DSCI_551_lab4_newRmd"
+title: "DSCI_521_lab4_newRmd"
 author: "Spencer Gerlach"
 date: "2022-09-26"
 output: html_document
