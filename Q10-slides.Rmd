@@ -1,0 +1,34 @@
+---
+title: "Question 10 slides"
+author: "Spencer Gerlach"
+date: "2022-10-01"
+output:
+  xaringan::moon_reader
+---
+### Here is slide 1.
+
+```{r}
+print("this is slide 1")
+```
+---
+### Here is slide 2
+
+Wow so fun!
+```{r}
+print("wow this is so much funnnnn")
+```
+---
+### Here is slide 3
+Still having fun
+
+```{r}
+print("yep still having soooo much fun!")
+```
+---
+### Slide 4
+
+This is getting old
+
+```{r}
+print("good thing this is the last slide.")
+```
