@@ -132,7 +132,7 @@ Create a new code chunk that uses a code chunk option.
 Write out in your own words what the code chunk option is doing.
 ```
 
-```{r question-4-code, echo=FALSE}
+```{r question-4-code, echo = FALSE}
 question <- 4
 question
 ```
@@ -157,8 +157,13 @@ At least one must be different to the ones mentioned above.
 Write in your own words what each code chunk option is doing.
 ```
 
-YOUR ANSWER GOES HERE
+```{r question-5-code, echo = FALSE, comment = "##q5"}
+question5 <- 5
+print("hello")
+print(question5)
 
+```
+This code chunk has two options: the `echo = FALSE` option supresses the code (not the output), and the `comment = "##q5` changes the default string that appends the output.
 
 ### 1.5. YAML Header and document output options
 
