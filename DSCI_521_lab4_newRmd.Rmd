@@ -2,7 +2,7 @@
 title: "DSCI_521_lab4_newRmd"
 author: "Spencer Gerlach"
 date: "2022-09-26"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
